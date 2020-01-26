@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SportCar
+comment1.params=horsepw\ wei\ topsp
+comment1.target=SportCar(double,\ double,\ double)
+comment2.params=
+comment2.target=double\ gettopspeed()
+numComments=3

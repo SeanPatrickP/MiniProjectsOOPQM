@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Account
+comment1.params=initialBalance
+comment1.target=Account(double)
+comment2.params=
+comment2.target=Account()
+comment3.params=amount
+comment3.target=void\ deposit(double)
+comment4.params=amount
+comment4.target=void\ withdraw(double)
+comment5.params=
+comment5.target=double\ getBalance()
+comment6.params=
+comment6.target=double\ getInterest()
+comment7.params=newBalance
+comment7.target=void\ setBalance(double)
+comment8.params=rate
+comment8.target=void\ setInterest(double)
+comment9.params=n
+comment9.target=double\ computeInterest(int)
+numComments=10
